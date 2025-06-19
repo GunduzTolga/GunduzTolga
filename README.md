@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://github.com/gunduztolga/gunduztolga/code.gif">
 </p>
  
 <h3 align="center">Still learning,still Googling -- but already loving frontend development</h3>
