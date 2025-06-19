@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tolga+GÜNDÜZ....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
  
 <h3 align="center">Still learning,still Googling -- but already loving frontend development</h3>
 
