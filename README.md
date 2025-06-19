@@ -7,6 +7,11 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunduztolga&theme=github-dark-dimmed&custom_title=GunduzTolga%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C040%20hrs%2054%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
