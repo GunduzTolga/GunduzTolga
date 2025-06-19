@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/gunduztolga/gunduztolga/code.gif">
+  <img src="https://github.com/GunduzTolga/GunduzTolga/blob/main/code.gif">
 </p>
- 
+
 <h3 align="center">Still learning,still Googling -- but already loving frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunduztolga&label=Profile%20views&color=0e75b6&style=flat" alt="gunduztolga" /> </p>
