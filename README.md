@@ -7,10 +7,12 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunduztolga&theme=github-dark-dimmed&custom_title=GunduzTolga%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C040%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.2%20million%20lines%20of%20code-blue)
+
 
 **I'm a Night 🦉** 
 
@@ -32,13 +34,12 @@ Python                   8 hrs 12 mins       ███████████�
 Dart                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Docker                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
+```
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
-```
-```text
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
