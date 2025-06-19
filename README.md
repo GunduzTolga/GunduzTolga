@@ -44,7 +44,6 @@ Docker                   10 mins             ░░░░░░░░░░░�
 
 
 <p>&nbsp;<img align="center" media="(prefers-color-scheme: src="https://github-readme-stats.vercel.app/api?username=gunduztolga&theme=dark&show_icons=true&locale=en" alt="gunduztolga" /></p>
- <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunduztolga&show_icons=true&locale=en&layout=compact" alt="gunduztolga" /></p>
 
