@@ -37,7 +37,7 @@ Docker                   10 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
-
+```
 ```text
 
 <h3 align="left">Connect with me:</h3>
