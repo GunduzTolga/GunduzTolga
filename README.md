@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/GunduzTolga/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GunduzTolga&theme=darkhub" alt="GunduzTolga" /></a> </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GunduzTolga&theme=github-dark-dimmed&custom_title=GunduzTolga%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GunduzTolga&theme=github-dark-dimmed&custom_title=GunduzTolga%20Activity%20Graph&hide_border=true)](https://github.com/GunduzTolga/github-readme-activity-graph)
 
 
 <!--START_SECTION:waka-->
