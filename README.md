@@ -10,11 +10,6 @@
 
 <h3 align="center">Still learning,still Googling -- but already loving frontend development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GunduzTolga&label=Profile%20views&color=0e75b6&style=flat" alt="GunduzTolga" /> </p>
-
-<p align="left"> <a href="https://github.com/GunduzTolga/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GunduzTolga&theme=darkhub" alt="GunduzTolga" /></a> </p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GunduzTolga&theme=github-dark-dimmed&custom_title=GunduzTolga%20Activity%20Graph&hide_border=true)](https://github.com/GunduzTolga/github-readme-activity-graph)
 
 
 <!--START_SECTION:waka-->
