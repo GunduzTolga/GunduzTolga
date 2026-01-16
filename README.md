@@ -10,6 +10,7 @@
 
 <h3 align="center">Still learning,still Googling -- but already loving frontend development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GunduzTolga&label=Profile%20views&color=0e75b6&style=flat" alt="GunduzTolga" /> </p>
 
 
 <!--START_SECTION:waka-->
